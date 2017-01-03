@@ -1,2 +1,2 @@
-# FoodAdvisorWiki
-Official Wiki of the FoodAdvisorProject
+# FoodAdvisorDocs
+Official Documentation of the FoodAdvisorProject
