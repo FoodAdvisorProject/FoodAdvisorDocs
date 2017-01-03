@@ -17,7 +17,7 @@ link del sito
 [Preliminary Survey](https://docs.google.com/forms/d/1if9RzKRzISFLfNOXSVa2jrvLmlzgnplrk1anEsFALys/edit#responses)
 
 #Milestone 1
-
+[Milestone 1 Presentation](https://docs.google.com/presentation/d/1Fm29t2O-4LyTHbW61LhX9S54Idgh53F9r0uEv98EInw/edit?usp=sharing) 
 #Milestone 2
 
 #Milestone 3
