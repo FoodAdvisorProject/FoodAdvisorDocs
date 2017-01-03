@@ -26,21 +26,3 @@ Fornitore: ha la stessa esigenza del negoziante ma non ha un luogo fisico di ven
 2) Posta il prodotto indicando i negozi dove è possibile trovarlo
 3) Vende
 4) Riceve il rating
-
-
-Scegliendo dei criteri di selezione qualitativi sui negozianti si garantisce un'alta affidabilità dei prodotti esposti e dell'app.
-
-(Il resto delle cose : TTD ALL)
-
-Registrazione preliminare:
-
-
-Cliente:
-
-Negoziante:
-
-Fornitore:
-
-Guide all'uso che abbiamo intenzione di fare:
-
-Negoziante/ Fornitore
