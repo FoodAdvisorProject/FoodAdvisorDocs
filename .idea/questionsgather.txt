@@ -1,1 +1,97 @@
 Qui raccogliamo le domande per il prossimo sondaggio
+
+
+Ciao!
+Siamo cinque studenti che studiano Ingegneria Informatica alla Sapienza e stiamo lavorando a un progetto nel quale il tuo contributo ci sarebbe di enorme aiuto!
+Questo questionario richiede solo qualche minuto per essere completato e le risposte ci arriveranno in forma completamente anonima
+
+Domande per i negozianti:
+
+-hai un  negozio online?
+si
+no
+-se no, credi che averne uno possa incrementare le tue vendite?
+risposta breve
+
+-Hai mai usato social network per condividere i tuoi prodotti?
+si 
+no
+
+-La gente vuole sapere da dove provengono i tuoi prodotti?
+si
+no
+
+-Vorresti poter offrire più informazioni ai tuoi clienti riguardo i tuoi prodotti?
+si
+no
+
+-Ti interesserebbe una app che fa questo al posto tuo?
+si
+no
+
+-Vorresti poter essere visibile sulla mappa?
+si
+no
+
+
+
+Hai mai fatto promozione dei tuoi prodotti sul Web?
+		si, su Facebook
+		si, con il mio sito web
+		si, con un sito e-commerce
+		altro
+cosa apprezzano del tuo prodotto i tuoi clienti?
+	Quantità
+	Qualità
+	altro
+
+Saresti interessato ad essere valutato sulla qualità, per godere di voti positivi?
+si
+no
+
+Vorresti valorizzare provenienza e modalità di produzione del tuo prodotto?
+	si
+	no
+Utilizzeresti un app per rendere il prodotto rintracciabile geograficamente e in base alle valutazioni ricevute?
+		si
+		si, solo se gratis
+		no
+
+
+Ciao!
+Siamo cinque studenti che studiano Ingegneria Informatica alla Sapienza e stiamo lavorando a un progetto nel quale il tuo contributo ci sarebbe di enorme aiuto!
+Questo questionario richiede solo qualche minuto per essere completato e le risposte ci arriveranno in forma completamente anonima
+	 	 	
+Domande per i consumatori:
+
+età?
+
+Dove preferisci comprare:
+
+supermercato
+mercato
+piccoli commercianti
+
+perchè preferisci un luogo in cui comperare rispetto l’altro?
+quantità
+qualità
+altro
+
+La quantità di informazioni sul prodotto potrebbe cambiare la tua decisione?
+si
+no
+
+Quali informazioni riguardo al prodotto alimentare vorresti ti fossero fornite?
+esempi
+tracciabilità(provenienza materie prime,luogo di produzione,passaggi intermedi)
+composizione(ingredienti)
+conservazione(metodi di conservazione)
+altro:(proponi tu)
+
+quali delle precedenti informazioni reputi più importante?
+
+Se tu avessi la possibilità  di avere un’app che con una foto sul prodotto di desse le informazioni che vuoi tu (scelte fra le precedenti), la utilizzeresti?
+si
+si solo se gratis
+no
+
