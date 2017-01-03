@@ -6,7 +6,7 @@ What is?
 
 FoodAdvisor is an application developed for the Google Technologies for Cloud and Web Development Workshop 2016/2017.
 The application gives you a platform where you can find the best food. All the products inside the application are chosen 
-using a [strict selection](.idea/criteria.txt) standars based of product's quality,trackability and craftsmanship.
+using a [strict selection standars](.idea/criteria.txt) based on product's quality,trackability and craftsmanship.
 
 #Useful links
 
