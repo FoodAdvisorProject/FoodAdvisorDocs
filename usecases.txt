@@ -1,0 +1,46 @@
+FoodAdvisor : un app che ti dice dove comprare il tuo cibo, usando come criterio di selezione la qualità del prodotto,
+la sua artigianalità e la sua tracciabilità.
+
+Use cases:
+
+Cliente: ha come esigenza la necessità di avere prodotti migliori
+
+1) Apre app (login/signup)
+2) cerca prodotto
+3) trova negozio con prodotto
+4) va al negozio
+5) compra prodotto
+6) usa (mangia) prodotto
+7) Valuta il prodotto (reminding rating system) -> feedback con foto (ciclo completo di vita del prodotto)
+
+Negoziante: ha come esigenza la necessità di avere più visibilità
+
+1) Apre app
+2) Posta il prodotto
+3) Vende
+4) Riceve il rating
+
+Fornitore: ha la stessa esigenza del negoziante ma non ha un luogo fisico di vendita del prodotto al di fuori del suo impianto di produzione:
+
+1) Apre app
+2) Posta il prodotto indicando i negozi dove è possibile trovarlo
+3) Vende
+4) Riceve il rating
+
+
+Scegliendo dei criteri di selezione qualitativi sui negozianti si garantisce un'alta affidabilità dei prodotti esposti e dell'app.
+
+(Il resto delle cose : TTD ALL)
+
+Registrazione preliminare:
+
+
+Cliente:
+
+Negoziante:
+
+Fornitore:
+
+Guide all'uso che abbiamo intenzione di fare:
+
+Negoziante/ Fornitore
