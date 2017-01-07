@@ -1,1 +1,3 @@
 le idee per la milestone_3
+
+- "dark theme" in modo da aumentare la possibilità di scelta e di customizzazione (facile da implementare e fare e grande di grande effetto)
