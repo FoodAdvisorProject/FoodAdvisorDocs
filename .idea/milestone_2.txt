@@ -1,1 +1,4 @@
 milestone 2
+- Databases ready to run
+- Server up and communication with website
+- website ready for beta and running
