@@ -3,4 +3,5 @@ milestone 2
 - Server up and communication with website
 - website ready for beta and running
 -------------------------------------------
+-achieve contacts with traders
 -beta for android app
