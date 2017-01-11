@@ -1,3 +1,5 @@
+
+
 # FoodAdvisor
 
 The easiest way to find the best food around you.
@@ -10,7 +12,11 @@ using a [strict selection standars](.idea/criteria.txt) based on product's quali
 
 #Useful links
 
-link del sito
+link del sito TTD
+
+[Facebook page](https://www.facebook.com/FoodAdvisor-272034129879551/)
+
+#Our developing path
 
 [Preliminary Presentation](https://docs.google.com/presentation/d/1I0vtHCP-36p39E7kmA-qJwb1fRghlN5q98uxk9rwqVI/edit?usp=sharing)
 
