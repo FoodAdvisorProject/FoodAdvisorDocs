@@ -1,14 +1,13 @@
 
 
 # FoodAdvisor
+See it, track it, eat it !
 
-The easiest way to find the best food around you.
 
 What is?
 
 FoodAdvisor is an application developed for the Google Technologies for Cloud and Web Development Workshop 2016/2017.
-The application gives you a platform where you can find the best food. All the products inside the application are chosen 
-using a [strict selection standars](.idea/criteria.txt) based on product's quality,trackability and craftsmanship.
+The application create a food chain and gives you a platform where you can find the various stages of that. Enjoy it!
 
 #Useful links
 
