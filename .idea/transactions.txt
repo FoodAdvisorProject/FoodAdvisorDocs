@@ -1,0 +1,4 @@
+qr life
+il qr viene inserito dal prduttore,ad ogni passaggio il trasportatore fa una foto e viene presa la geolocalizzazione con i dati del trasportatore.
+una volta arrivato in sede di vendita, il venditore fa una foto al qr del prodotto è mette una stringa di blocco alla transazione(notare che il qr al suo interno contiene anche la data di scadenza del prodotto).
+quindi quando il consumarore fa la foto gli vengono dati i dati di tutte le transazioni.senza che possa intervenire sui passaggi.
