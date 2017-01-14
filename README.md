@@ -20,7 +20,7 @@ This app tracks products and gives you a collection of usefull info about the pr
 [Preliminary Survey](https://docs.google.com/forms/d/1if9RzKRzISFLfNOXSVa2jrvLmlzgnplrk1anEsFALys/edit#responses)
 
 #Milestone 1
-[Milestone 1 Presentation](https://docs.google.com/presentation/d/1Q_yveqNDTiT4y_XppdK0rF1bPckR4Pr2y2cBAk3xzdA/edit) 
+[Milestone 1 Presentation](https://drive.google.com/file/d/0B5dfLufn5WeFQVR2eHpLcl9kVDQ/view) 
 
 [Consumers Survey](https://goo.gl/fn5UaG)
 
