@@ -4,8 +4,6 @@
 See it, track it, eat it !
 
 
-What is?
-
 FoodAdvisor is an application developed for the Google Technologies for Cloud and Web Development Workshop 2016/2017.
 This app tracks products and gives you a collection of usefull info about the product and the route from producers to you.
 
