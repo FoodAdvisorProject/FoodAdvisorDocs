@@ -7,11 +7,11 @@ See it, track it, eat it !
 What is?
 
 FoodAdvisor is an application developed for the Google Technologies for Cloud and Web Development Workshop 2016/2017.
-The application create a food chain and gives you a platform where you can find the various stages of that. Enjoy it!
+This app tracks products and gives you a collection of usefull info about the product and the route from producers to you.
 
 #Useful links
 
-link del sito TTD
+[NOT ONLINE YET-Official site link](http://www.andrealacava.com)
 
 [Facebook page](https://www.facebook.com/FoodAdvisor-272034129879551/)
 
