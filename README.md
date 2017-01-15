@@ -5,13 +5,16 @@ See it, track it, eat it !
 
 
 FoodAdvisor is an application developed for the Google Technologies for Cloud and Web Development Workshop 2016/2017.
-This app tracks products and gives you a collection of usefull info about the product and the route from producers to you.
+This app tracks food products by collecting detailed info on quality and by following the route from the producer to you.
+
+What is traceability?
+Traceability is about knowing where a food item is or has been at a particular moment and what has been done to it.
 
 #Useful links
 
 [NOT ONLINE YET-Official site link](http://www.andrealacava.com)
 
-[Facebook page](https://www.facebook.com/FoodAdvisor-272034129879551/)
+[Facebook page](https://www.facebook.com/FoodAdvisor.RaNe)
 
 #Our developing path
 
