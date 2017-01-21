@@ -1,0 +1,3 @@
+
+http://rane.pro             refers to  /var/www/rane.pro 
+http://foodadvisor.rane.pro refers to /var/www/foodadvisor.rane.pro
