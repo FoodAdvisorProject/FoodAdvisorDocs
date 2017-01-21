@@ -12,7 +12,7 @@ Traceability is about knowing where a food item is or has been at a particular m
 
 #Useful links
 
-[Official site link](http://rane.pro/)
+[Official site link](http://foodadvisor.rane.pro/)
 
 [Facebook page](https://www.facebook.com/FoodAdvisor.RaNe)
 
