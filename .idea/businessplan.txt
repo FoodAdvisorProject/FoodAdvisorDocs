@@ -1,0 +1,33 @@
+Fondamentalmente una startup ha tre vie per guadagnare: B2B, B2C, RETAIL.
+
+Prendendo come TARGET PRIMARIO: Piccole medie imprese, aka i produttori che rivendono ai grossisti ma anche direttamente nei negozi:
+
+B2B Business to Business: Monetizzare sul chi già fa business.
+Nel nostro caso possiamo chiedere un tot. di soldi come "spese di marketing": noi facciamo pubblicità a loro ed in cambio riceviamo un tot al mese fisso.
+Il nostro marketing offerto si traduce in offrire:
+ 1) visibilità (anche con offerte e promozioni, buoni sconto per i clienti)
+ 2) recensione (importanti perchè di fatto se tu crei un rating system con un database collezioni dati che ai produttori servono per migliorarsi)
+ 3) Controllo e tracciabilità della filiera: quando un produttore invia al grossista la roba non sa quando il grossista dispatcherà il suo prodotto,
+    magari alcuni prodotti possono perdere di qualità proprio per la lunga degenza nei magazzini. La nostra app di base traccia i prodotti e quindi fornisce allo
+    stesso produttore informazioni che il produttore non sempre conosce (dove va a finire il suo prodotto).
+
+B2C Business to Client:
+
+Su un sondaggio fatto da 212 persone il 30% PAGHEREBBE per avere la nostra applicazione.
+Un modo di monetizzare basato sui dati quindi può essere lanciare 2 applicazioni (versione free e versione premium) o cercare di creare una utenza premium
+che abbia a disposizione più informazioni rispetto alla versione free.
+Esempio: L'utente premium una volta che scannerizza un prodotto potrebbe avere come altre informazioni i luoghi dove il suo prodotto è usato (ristoranti tavole calde etc.)
+(i luoghi sono indicati dal produttore che SA (a differenza del rapporto con i grossisti) dove il loro prodotto viene usato ed ha interesse a farlo usare di più!)
+
+Allo stesso tempo bisognerebbe incentivare i consumatori (tutti) a valutare i prodotti per il B2B, e ciò può essere fatto attraverso promozioni nostre interne.
+Esempio : Ogni 100 recensioni lunghe 500 caratteri di 100 prodotti diversi ti regaliamo un biglietto del cinema. Noi abbiamo 100 prodotti diversi
+(e magari ci facciamo pagare dai produttori un tot ogni recensione) e il cliente è felice e va al cinema.
+Altri esempi di incentivo possono essere buoni sconto e roba del genere
+
+RETAIL
+Nel nostro caso i retail sono i negozianti finali, ovvero sono quei negozianti dove il produttore invia sicuro la sua merce.
+Come nel B2B si possono chiedere spese di marketing basate sul meccanismo della visibilità e su un altro meccanismo esclusivo: il BENE CIVETTA.
+Il bene civetta si intende un prodotto per il quale il consumatore si muove e va all'interno del negozio. Una volta entrato lì la probabilità di comprare altre cose sarà molto alta.
+Esempio stupido: quando si va a SPV a comprare la pizza allo spaccio è molto frequente poi comprarsi anche goleador e caramelle. Nessuno di noi entrerebbe o si muoverebbe solo per quest'ultime
+ma visto che deve prendere la pizza già che si trova prende anche qualcosa che di fatto senza questa necessità non avrebbe preso.
+BENE CIVETTA: pizza, resto: soldi in più che entrano nel retail.
