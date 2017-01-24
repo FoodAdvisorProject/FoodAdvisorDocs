@@ -2,6 +2,7 @@ milestone 2
 - Databases ready to run
 - Server up and communication with website
 - website ready for beta and running
+- comminciare con il beta testing, per quanto riguarda questo abbiamo gia i contatti di una possibile azien in grado di fornirci copertura per il testing e darci dei feed back
 -------------------------------------------
 -achieve contacts with traders
 -beta for android app
