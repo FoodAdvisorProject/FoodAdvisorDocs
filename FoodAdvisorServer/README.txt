@@ -6,7 +6,7 @@ The <a href="https://github.com/FoodAdvisorProject/FoodAdvisorServer/blob/master
 - USERS        contains data related to users
 - TRANSACTIONS contains all executed transactions between users involving articles
 
-The <a href="https://github.com/FoodAdvisorProject/FoodAdvisorServer/tree/master/src">Java Application</a> contains four main packages
+The [Java Application](../FoodAdvisorServer/tree/master/src) contains four main packages
 
 - classes
 - database
