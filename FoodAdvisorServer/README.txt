@@ -1,12 +1,12 @@
 The FoodAdvisorServer is based on a MySQL database and the application is fully implemented in Java.
 
-the <a href="https://github.com/FoodAdvisorProject/FoodAdvisorServer/blob/master/database/DB_SETUP.sql">database design</a> contains three main tables : ARTICLES,USERS,TRANSACTIONS 
+The <a href="https://github.com/FoodAdvisorProject/FoodAdvisorServer/blob/master/database/DB_SETUP.sql">database design</a> contains three main tables : ARTICLES,USERS,TRANSACTIONS 
 
 - ARTICLES     contains data related to articles
 - USERS        contains data related to users
 - TRANSACTIONS contains all executed transactions between users involving articles
 
-the <a href="https://github.com/FoodAdvisorProject/FoodAdvisorServer/tree/master/src">Java Application</a> contains four main packages
+The <a href="https://github.com/FoodAdvisorProject/FoodAdvisorServer/tree/master/src">Java Application</a> contains four main packages
 
 - classes
 - database
@@ -19,6 +19,6 @@ the <a href="https://github.com/FoodAdvisorProject/FoodAdvisorServer/tree/master
 
 3. foodadvisor contains the main that will start our application
 
-4. users contains the routines that will handle client requests
+4. users contains the routines that will handle client requests and the interface of our app to the world
 
 
