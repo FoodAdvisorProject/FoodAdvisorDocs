@@ -35,3 +35,4 @@ Implements the interface to the REST of the world.
 Through the functions provided by this module the user will be able to access, add and modify data to our DB
 
 This module is programmed in Scala and depends on Akka-HTTP in order to work
+ 
