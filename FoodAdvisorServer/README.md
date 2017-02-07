@@ -1,8 +1,8 @@
 # FoodAdvisor Server
 
 The FoodAdvisorServer is divided in two main parts:
- - FoodAdvisorServerDB
- - FoodAdvisorServerHTML
+ - [FoodAdvisorServerDB](https://github.com/FoodAdvisorProject/FoodAdvisorServerDB/)
+ - [FoodAdvisorServerHTML](https://github.com/FoodAdvisorProject/FoodAdvisorServerHTML/)
  
  
 # FoodAdvisor Server DB
@@ -31,7 +31,7 @@ The [Java Application](https://github.com/FoodAdvisorProject/FoodAdvisorServerDB
 
 #FoodAdvisor Server HTML
 
-Implements the interface to the REST of the world.
+[FoodAdvisorServerHTML](https://github.com/FoodAdvisorProject/FoodAdvisorServerHTML/) Implements the interface to the REST of the world.
 Through the functions provided by this module the user will be able to access, add and modify data to our DB
 
 This module is programmed in Scala and depends on Akka-HTTP in order to work
