@@ -36,3 +36,10 @@ Through the functions provided by this module the user will be able to access, a
 
 This module is programmed in Scala and depends on Akka-HTTP in order to work
  
+1. addUser Example 
+
+POST /addUser
+
+Content-Type: x-www-form-urlencoded
+
+login_name=username&passw_login=passwordhash&email=useremail&name=firstname&second_name=secnd_name&is_enterprise=1&enterprise_description=description&photo=photoinbase64
