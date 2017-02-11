@@ -77,6 +77,13 @@
   article_id=1&buyer_id=2&seller_id=1&longitude=4.5&latitude=5.5
  
  -- getTransaction
+ 
   -Description = get a transaction
+  -Method = GET
+  -Fields = transaction_id   LONG
+
+-- getArticleTravel
+ 
+  -Description = get an article travel (list of transaction from the last to the last one)
   -Method = GET
   -Fields = transaction_id   LONG
