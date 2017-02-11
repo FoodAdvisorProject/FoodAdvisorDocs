@@ -1,4 +1,4 @@
-1. addUser  
+-- addUser  
 
  -Description = adds an user with following fields
  -Method = POST
@@ -23,7 +23,7 @@
  
  
  
- 2. getUserIdByEmail 
+-- getUserIdByEmail 
  
   -Description = get user_id from email, user_id is needed for all the db functions
   -Method = GET
@@ -31,7 +31,7 @@
   
  GET /getUserIdByEmail?email=user_email
  
- 3. getUser 
+-- getUser 
  
   -Description = get user instance from id
   -Method = GET
@@ -39,7 +39,7 @@
  
  GET /getUser?user_id=user_id
  
- 4. addArticle 
+-- addArticle 
  
   -Description = Adds an article
   -Method = POST
@@ -58,7 +58,7 @@
   
  name=article_name&creator_id=1&description=article_description&longitude=3.0&latitude=4.0&photo=
 
-4. addTransaction
+-- addTransaction
 
   -Description = Adds a transaction
   -Method = POST
@@ -76,3 +76,7 @@
   
   article_id=1&buyer_id=2&seller_id=1&longitude=4.5&latitude=5.5
  
+ -- getTransaction
+  -Description = get a transaction
+  -Method = GET
+  -Fields = transaction_id   LONG
