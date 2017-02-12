@@ -77,8 +77,44 @@ The creator of the Article has '''seller_id==0'''
  
 ## addUser
 
-In order to add an user use this function. Note that this will implement the Google NoCAPTCHA to filter robots.
-this can be modified later
+In order to add an user use this function. 
+NB: Note that this will implement the Google NoCAPTCHA to filter robots. this can be modified later.
 
 - Method: POST /addUser
--Fields:
+- Fields:
+ - login_name STRING
+ - login_passw STRING(hash of the function)
+ - email  STRING
+ - name STRING
+ - second_name STRING
+ - is_enterprise 1/0
+ - enterprise_description STRING
+ - photo STRING(BASE64)
+
+# addArticle
+
+In order to add an Article use this function.
+NB: This function will dependend only on the session cookie of an user in order to avoid add articles to other users.
+
+- Method: POST /addArticle
+- Fields:
+ - name STRING
+ - creator_id LONG
+ - description STRING
+ - longitude FLOAT
+ - latitude FLOAT
+ - photo STRING(BASE64)
+
+# addTransaction
+
+In order to add a Transaction use this function.
+NB: the buyer_id will depend only on the session cookie of an user in order to avoid to add transactions to other users.
+
+- Method: POST /addTransaction
+- Fields:
+ - article_id LONG 
+ - buyer_id LONG
+ - seller_id LONG
+ - longitude FLOAT
+ - latitude FLOAT
+ 
