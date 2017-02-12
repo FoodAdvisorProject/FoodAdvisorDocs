@@ -1,89 +1,14 @@
--- addUser  
+addUser
+getUser
 
- -Description = adds an user with following fields
- -Method = POST
- -Content-type = x-www-form-urlencoded
- -Fields =
-  login_name                 STRING
-  passw_login                STRING
-  email                      STRING
-  name                       STRING
-  second_name                STRING
-  is_enterprise              1/0
-  enterprise_description     STRING
-  photo                      STRING(BASE64)
+addArticle
+getArticle
 
+addTransaction
+getTransaction
 
+getArticleTravel
 
- POST /addUser
+getUserArticles
 
- Content-Type: x-www-form-urlencoded
-
- login_name=username&passw_login=passwordhash&email=useremail&name=firstname&second_name=secnd_name&is_enterprise=1&enterprise_description=description&photo=photoinbase64
- 
- 
- 
--- getUserIdByEmail 
- 
-  -Description = get user_id from email, user_id is needed for all the db functions
-  -Method = GET
-  -Fields = email   STRING
-  
- GET /getUserIdByEmail?email=user_email
- 
--- getUser 
- 
-  -Description = get user instance from id
-  -Method = GET
-  -Fields = user_id   LONG
- 
- GET /getUser?user_id=user_id
- 
--- addArticle 
- 
-  -Description = Adds an article
-  -Method = POST
-  -Content-type = x-www-form-urlencoded
-  -Fields = 
-  name            STRING
-  creator_id      LONG
-  description     STRING
-  longitude       FLOAT
-  latitude        FLOAT
-  photo           STRING(BASE64)
-  
- POST /addArticle
- 
- Content-Type: x-www-form-urlencoded
-  
- name=article_name&creator_id=1&description=article_description&longitude=3.0&latitude=4.0&photo=
-
--- addTransaction
-
-  -Description = Adds a transaction
-  -Method = POST
-  -Content-type = x-www-form-urlencoded
-  -Fields = 
-   article_id     LONG
-   buyer_id       LONG
-   seller_id      LONG
-   longitude      FLOAT
-   latitude       FLOAT
-   
-   POST /addTransaction
-   
-  Content-Type: x-www-form-urlencoded
-  
-  article_id=1&buyer_id=2&seller_id=1&longitude=4.5&latitude=5.5
- 
- -- getTransaction
- 
-  -Description = get a transaction
-  -Method = GET
-  -Fields = transaction_id   LONG
-
--- getArticleTravel
- 
-  -Description = get an article travel (list of transaction from the last to the last one)
-  -Method = GET
-  -Fields = transaction_id   LONG
+getUserIdByEmail
