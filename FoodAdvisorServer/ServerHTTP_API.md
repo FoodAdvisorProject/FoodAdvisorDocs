@@ -2,17 +2,17 @@
 
 The server provides the following functions:
 
-*addUser
-*getUser
+* addUser
+* getUser
 
-*addArticle
-*getArticle
+* addArticle
+* getArticle
 
-*addTransaction
-*getTransaction
+* addTransaction
+* getTransaction
 
-*getArticleTravel
+* getArticleTravel
 
-*getUserArticles
+* getUserArticles
 
-*getUserIdByEmail
+* getUserIdByEmail
