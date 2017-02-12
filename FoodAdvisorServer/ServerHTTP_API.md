@@ -9,7 +9,7 @@ i suggest you to look at the [DB implementation](https://github.com/FoodAdvisorP
 
 The server provides the following functions:
 
-* addUser
+* [addUser](#adduser)
 * getUser
 
 * addArticle
