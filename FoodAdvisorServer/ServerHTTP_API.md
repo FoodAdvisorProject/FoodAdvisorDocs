@@ -5,6 +5,9 @@ The server returns to all the GET methods with a JSON Object or the error messag
 
 The main three objects that will be managed are **Articles** , **Users** and **Transactions**.
 
+Methods with the prefix '''post''' require this header:
+Content-Type = application/x-www-form-urlencoded
+
 i suggest you to look at the [DB implementation](https://github.com/FoodAdvisorProject/FoodAdvisorServerDB/blob/master/database/DB_SETUP.sql) to see what attributes are contained in each object.
 
 The server provides the following functions:
