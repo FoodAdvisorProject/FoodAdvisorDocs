@@ -28,11 +28,13 @@ The server provides the following functions:
 * [getUserIdByEmail](#getuseridbyemail)
 
 
+
 ## getTransaction
 
 In order to get a Transaction instance use this function.
 
 - Method: GET /getTransaction
+- Return: a JSON Object that represent a [transaction](#transaction) in case of success, error description in case of error.
 - Fields:
  - tran_id LONG
  
@@ -121,3 +123,12 @@ NB: the buyer_id will depend only on the session cookie of an user in order to a
  - longitude FLOAT
  - latitude FLOAT
  
+# Transaction
+ 
+contains the following fields :
+- buyer_id
+- latitude
+- longitude
+- id
+- seller_id
+- article_id
