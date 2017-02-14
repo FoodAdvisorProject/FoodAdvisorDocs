@@ -34,7 +34,7 @@ The server provides the following functions:
 In order to get a Transaction instance use this function.
 
 - Method: GET /getTransaction
-- Return: a JSON Object that represent a [transaction](#transaction) in case of success, error description in case of error.
+- Return: a JSON Object that represent a [Transaction](#transaction) in case of success, error description in case of error.
 - Fields:
  - tran_id LONG
  
@@ -43,6 +43,7 @@ In order to get a Transaction instance use this function.
 In order to get an Article instance use this function.
 
 - Method: GET /getArticle
+- Return: a JSON Object that represent an [Article](#article) in case of success, error description in case of error.
 - Fields:
  - article_id LONG
 
@@ -52,6 +53,7 @@ In order to get an User instance use this function.
 NB: this function will be hidden and provided only associated with a session cookie
 
 - Method: GET /getUser
+- Return: a JSON Object that represent an [User](#User) in case of success, error description in case of error.
 - Fields:
  - user_id LONG
  
@@ -60,6 +62,7 @@ NB: this function will be hidden and provided only associated with a session coo
 In order to get an user_id use this function
 
 - Method: GET /getUserIdByEmail
+- Return: a long value associated with the user_id
 - Fields:
  - email STRING
  
@@ -68,6 +71,7 @@ In order to get an user_id use this function
 In order to get a JSON Array of Articles that belongs to an user use this function
 
 - Method: GET /getUserArticles
+- Return: a list [Article](#Article)s in case of success, error description in case of error.
 - Fields:
  - user_id LONG
 
@@ -77,6 +81,7 @@ In order to get an ordered List of transaction, from the later to the first, use
 The creator of the Article has '''seller_id==0''' 
 
 - Method: GET /getArticleTravel
+- Return: a list of [Transaction](#Transaction)s in case of success, error description else.
 - Fields:
  - tran_id LONG 
  
@@ -132,3 +137,27 @@ contains the following fields :
 - id
 - seller_id
 - article_id
+
+# Article
+
+contains the following fields :
+- article_id
+- name
+- creator_id
+- description
+- photo
+
+# User
+
+contains the following fields :
+- user_id
+- login
+- passw
+- email
+- name
+- second_name
+- is_enterprise
+- enterprise_description
+- photo
+
+
