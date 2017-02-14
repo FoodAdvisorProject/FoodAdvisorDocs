@@ -53,7 +53,7 @@ In order to get an User instance use this function.
 NB: this function will be hidden and provided only associated with a session cookie
 
 - Method: GET /getUser
-- Return: a JSON Object that represent an [User](#User) in case of success, error description in case of error.
+- Return: a JSON Object that represent an [User](#user) in case of success, error description in case of error.
 - Fields:
  - user_id LONG
  
