@@ -27,7 +27,14 @@ The server provides the following functions:
 
 * [getUserIdByEmail](#getuseridbyemail)
 
+## General Notes
 
+In order to get an Article's path we need to identify it as a transaction in which the Article was bought by the User.
+This permits to sell the same article to more than one User and avoid confusion between Users
+
+The QR-Code will return a transaction_id, instead of an article_id, that identifies the transaction in which the User has bought the Article.
+
+By default, on each new Article a transaction with seller_id=0 is created. when seller_id=0 the buyer_id is also the id of the article's creator.
 
 ## getTransaction
 
