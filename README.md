@@ -16,7 +16,7 @@ Traceability is about knowing where a food item is or has been at a particular m
 
 [Facebook page](https://www.facebook.com/FoodAdvisor.RaNe)
 
-[Server Code](https://github.com/FoodAdvisorProject/FoodAdvisorServer)
+Server Code \[[DB](https://github.com/FoodAdvisorProject/FoodAdvisorServerDB) ],\[[HTTP](https://github.com/FoodAdvisorProject/FoodAdvisorServerHTTP)]
 
 [App Code](https://github.com/FoodAdvisorProject/FoodAdvisorAndroid)
 
