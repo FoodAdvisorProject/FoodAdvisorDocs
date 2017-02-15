@@ -81,7 +81,7 @@ In order to get an ordered List of transaction, from the later to the first, use
 The creator of the Article has '''seller_id==0''' 
 
 - Method: GET /getArticleTravel
-- Return: a list of [Transaction](#Transaction)s in case of success, error description else.
+- Return: a list of [Transaction](#Transactions) in case of success, error description else.
 - Fields:
  - tran_id LONG 
  
