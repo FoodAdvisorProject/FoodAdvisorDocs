@@ -36,6 +36,11 @@ The QR-Code will return a transaction_id, instead of an article_id, that identif
 
 By default, on each new Article a transaction with seller_id=0 is created. when seller_id=0 the buyer_id is also the id of the article's creator.
 
+Important: 
+Note that till now we assume that there aren't evil users, everyone is free to access or create Objects.
+In the future this will not be allowed in order to improve our service.
+Wherever modification can be done to users instead of using a single user_id we will use a session_cookie that will be produced by a login function.
+
 ## Buying an Article
 
 The following steps will be needed to buy an article:
