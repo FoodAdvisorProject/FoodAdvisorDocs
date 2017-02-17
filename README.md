@@ -38,7 +38,7 @@ Server Code \[[DB](https://github.com/FoodAdvisorProject/FoodAdvisorServerDB)]\[
 [Shops Survey](https://docs.google.com/forms/d/1HCm-BrWmVCNG-XEp7HlRP47yi6eHDLUtPF4zq0Ck_7s/edit?usp=sharing)
 
 #Milestone 2
-
+[Milestone 2 Presentation](https://drive.google.com/open?id=0B5dfLufn5WeFbW9ubHNNTlJkTTA) 
 #Milestone 3
 
 #Final Submission
