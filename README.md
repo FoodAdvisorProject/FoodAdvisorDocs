@@ -39,6 +39,7 @@ Server Code \[[DB](https://github.com/FoodAdvisorProject/FoodAdvisorServerDB)]\[
 
 #Milestone 2
 [Milestone 2 Presentation](https://drive.google.com/open?id=0BxqjKwLATPY0SExadVdvcjJ2MzA) 
+[Video Milestone 2 Presentation](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThecave3%2Fvideos%2F10210513375463400%2F&show_text=0&width=560)
 #Milestone 3
 
 #Final Submission
