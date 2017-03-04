@@ -38,14 +38,11 @@ Server Code \[[DB](https://github.com/FoodAdvisorProject/FoodAdvisorServerDB)]\[
 [Shops Survey](https://docs.google.com/forms/d/1HCm-BrWmVCNG-XEp7HlRP47yi6eHDLUtPF4zq0Ck_7s/edit?usp=sharing)
 
 #Milestone 2
-<<<<<<< HEAD
+
 [Milestone 2 Presentation](https://drive.google.com/open?id=0BxqjKwLATPY0SExadVdvcjJ2MzA)
 [Beta Registration](http://foodadvisor.rane.pro/beta/registration.html)
-=======
-[Milestone 2 Presentation](https://drive.google.com/open?id=0BxqjKwLATPY0SExadVdvcjJ2MzA) 
+[Link](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThecave3%2Fvideos%2F10210513375463400%2F&show_text=0&width=560) to our short presentation video
 
-[Video Milestone 2 Presentation](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThecave3%2Fvideos%2F10210513375463400%2F&show_text=0&width=560)
->>>>>>> origin/master
 #Milestone 3
 
 #Final Submission
