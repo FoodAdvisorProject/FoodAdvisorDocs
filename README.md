@@ -45,10 +45,11 @@ Server Code \[[DB](https://github.com/FoodAdvisorProject/FoodAdvisorServerDB)]\[
 
 [Link](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThecave3%2Fvideos%2F10210513375463400%2F&show_text=0&width=560) to our short presentation video
 
+[Link](https://drive.google.com/open?id=0B5dfLufn5WeFR1VWOXhCT05TZWs) to download apk 0.0.9
+
 #Milestone 3
 [Milestone 3 Presentation](https://docs.google.com/presentation/d/13FxPnp4MHeYXXnpnbvG29g325UW4UYooxJ5Zbgf05Tk/edit)
 
 [Link](https://www.facebook.com/FoodAdvisor.RaNe/videos/300110737071890/) to our short video interview with one of our partners
 
-[Link](https://drive.google.com/open?id=0B5dfLufn5WeFR1VWOXhCT05TZWs) to download apk
 #Final Submission
