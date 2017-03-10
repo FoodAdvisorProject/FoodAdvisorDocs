@@ -49,4 +49,6 @@ Server Code \[[DB](https://github.com/FoodAdvisorProject/FoodAdvisorServerDB)]\[
 [Milestone 3 Presentation](https://docs.google.com/presentation/d/13FxPnp4MHeYXXnpnbvG29g325UW4UYooxJ5Zbgf05Tk/edit)
 
 [Link](https://www.facebook.com/FoodAdvisor.RaNe/videos/300110737071890/) to our short video interview with one of our partners
+
+[Link](https://drive.google.com/open?id=0B5dfLufn5WeFR1VWOXhCT05TZWs) to download apk
 #Final Submission
