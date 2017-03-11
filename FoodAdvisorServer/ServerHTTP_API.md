@@ -59,8 +59,16 @@ In order to get a Transaction instance use this function.
 
 - Method: GET /getTransaction
 - Return: a JSON Object that represent a [Transaction](#transaction) in case of success, error description in case of error.
+
+TWO METHODS : 
+
 - Fields:
  - tran_id LONG
+
+- Fields:
+ - art_id LONG
+ - buyer_id LONG 
+ 
  
 ## getArticle
 
