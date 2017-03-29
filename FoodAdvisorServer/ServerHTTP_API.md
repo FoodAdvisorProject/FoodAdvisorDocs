@@ -1,4 +1,4 @@
-#ServerHTTP APIs
+# ServerHTTP APIs
 
 The server returns to all the POST methods with OK or the error message associated with the exception.
 The server returns to all the GET methods with a JSON Object or the error message associated with the exception.
