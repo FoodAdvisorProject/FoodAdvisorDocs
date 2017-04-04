@@ -119,6 +119,9 @@ The creator of the Article has '''seller_id==0'''
 - Fields:
  - tran_id LONG 
  
+@UPDATE 4/04/2017: the article travel now return even the seller/buyer Json object for each transaction.
+         Look at the [Transaction](#Transaction) definition
+ 
 ## addUser
 
 In order to add an user use this function. 
@@ -171,7 +174,8 @@ contains the following fields :
 - id
 - seller_id
 - article_id
-
+- seller (JSON instance of the seller, look at [User](#User) definition )
+- buyer (JSON instance of the buyer, look at [User](#User) definition )
 # Article
 
 contains the following fields :
