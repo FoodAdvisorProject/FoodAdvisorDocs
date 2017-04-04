@@ -88,6 +88,8 @@ NB: this function will be hidden and provided only associated with a session coo
 - Return: a JSON Object that represent an [User](#user) in case of success, error description in case of error.
 - Fields:
  - user_id LONG
+ OR 
+ - email   STRING
  
 ## getUserIdByEmail
 
