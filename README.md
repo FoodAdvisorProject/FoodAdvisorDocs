@@ -1,6 +1,7 @@
 
 <img src="/.images/Progetto logo bkgrd.png" width="300" align="right">
 # FoodAdvisor
+
 See it, track it, eat it !
 
 
