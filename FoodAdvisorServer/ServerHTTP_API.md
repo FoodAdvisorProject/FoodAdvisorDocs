@@ -89,7 +89,8 @@ NB: this function will be hidden and provided only associated with a session coo
 - Fields:
  - user_id LONG
  OR 
- - email   STRING
+ - email    STRING
+ - password STRING
  
 ## getUserIdByEmail
 
