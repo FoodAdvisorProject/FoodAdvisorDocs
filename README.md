@@ -1,5 +1,6 @@
 
 <img src="/.images/Progetto logo bkgrd.png" width="300" align="right">
+
 # FoodAdvisor
 
 See it, track it, eat it !
@@ -11,7 +12,7 @@ This app tracks food products by collecting detailed info on quality and by foll
 What is traceability?
 Traceability is about knowing where a food item is or has been at a particular moment and what has been done to it.
 
-#Useful links
+# Useful links
 
 [Official site link](http://foodadvisor.rane.pro/)
 
