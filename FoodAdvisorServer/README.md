@@ -2,7 +2,7 @@
 
 The FoodAdvisorServer is divided in two main parts:
  - [FoodAdvisorServerDB](https://github.com/FoodAdvisorProject/FoodAdvisorServerDB/)
- - [FoodAdvisorServerHTTP](https://github.com/FoodAdvisorProject/FoodAdvisorServerHTTP/)
+ - [FoodAdvisorServerHTTP](https://github.com/FoodAdvisorProject/FoodAdvisorDocs/blob/master/FoodAdvisorServer/ServerHTTP_API.md)
  
  
 # FoodAdvisor Server DB
