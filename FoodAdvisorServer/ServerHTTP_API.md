@@ -133,7 +133,10 @@ This function return a list of article travels.
 - Fields:
  - article_id LONG
  - seller_id  LONG
- 
+- Note: 
+ seller_id = 0 is the default value, gets the history of the article from the epoch ( creation time )
+ It's important not to use this function over transaction cycles otherwise the recursion will loop and overflow the heap.
+
 ## addUser
 
 In order to add an user use this function. 
