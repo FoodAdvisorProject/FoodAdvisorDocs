@@ -132,6 +132,7 @@ This function return a list of article travels.
 - Return: a list of ArticleTravels in case of success, error description otherwise.
 - Fields:
  - article_id LONG
+ - seller_id  LONG
  
 ## addUser
 
