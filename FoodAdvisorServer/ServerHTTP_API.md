@@ -22,6 +22,7 @@ The server provides the following functions:
 * [getTransaction](#gettransaction)
 
 * [getArticleTravel](#getarticletravel)
+* [getArticleLife](#getarticlelife)
 
 * [getUserArticles](#getuserarticles)
 
@@ -116,12 +117,21 @@ In order to get an ordered List of transaction, from the later to the first, use
 The creator of the Article has '''seller_id==0''' 
 
 - Method: GET /getArticleTravel
-- Return: a list of Transactions in case of success, error description else.
+- Return: a list of Transactions in case of success, error description otherwise.
 - Fields:
  - tran_id LONG 
  
 @UPDATE 4/04/2017: the article travel now return even the seller/buyer Json object for each transaction.
          Look at the [Transaction](#Transaction) definition
+ 
+## getArticleLife
+
+This function return a list of article travels. 
+
+- Method: GET /getArticleLife
+- Return: a list of ArticleTravels in case of success, error description otherwise.
+- Fields:
+ - article_id LONG
  
 ## addUser
 
