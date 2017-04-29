@@ -60,3 +60,5 @@ Server Code \[[DB](https://github.com/FoodAdvisorProject/FoodAdvisorServerDB)]\[
 [Link](https://www.facebook.com/FoodAdvisor.RaNe/videos/300110737071890/) to our short video interview with one of our partners
 
 # Final Submission
+
+Please see our final video by clicking the above picture and download our [application](https://play.google.com/store/apps/details?id=pro.rane.foodadvisor&hl=it).
