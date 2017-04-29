@@ -12,6 +12,11 @@ This app tracks food products by collecting detailed info on quality and by foll
 What is traceability?
 Traceability is about knowing where a food item is or has been at a particular moment and what has been done to it.
 
+
+[![FoodAdvisor](https://img.youtube.com/vi/5eX-eNkQSjM/0.jpg)](https://www.youtube.com/watch?v=5eX-eNkQSjM "FoodAdvisor")
+
+
+
 # Useful links
 
 [Official site link](http://foodadvisor.rane.pro/)
